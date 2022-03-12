@@ -5,6 +5,8 @@
 * 下载最新版v2rayN请访问https://github.com/2dust/v2rayN/releases
 * 了解原项目作者的规则请访问https://github.com/Loyalsoldier/v2ray-rules-dat/releases
 
+## 依赖GEO文件
+
 >使用本项目的路由规则前，请先下载加强版的`geoip.dat`和`geosite.dat`，并导入到v2rayN客户端的目录，替换原来的`geoip.dat`和`geosite.dat`。下载地址：
 
 * `geoip.dat`
