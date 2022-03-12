@@ -1,6 +1,6 @@
 # v2ray-rules-dat
 # 新版V2rayN的路由规则设置
->本项目修改于[@Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) 。因原项目的json文件格式过于落后，导致无法导入新版的V2rayN中使用，故更新其Whitelist白名单、Blacklist黑名单和DNS setting DNS设置文件的格式，并在其基础上进行更新和改进，以便小白能够设置自己的新版V2ray的代理规则。更多规则细节请访问原项目地址，在本项目中不多赘述。想要了解V2rayN的更多高级用法请访问v2rayN的项目[@2dust/v2rayN](https://github.com/2dust/v2rayN) ，在本项目中也不过多赘述。
+>本项目修改于[@Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) 。因原项目的规则文件格式过于落后，导致无法导入新版的V2rayN中使用，故更新其Whitelist白名单、Blacklist黑名单和DNS setting DNS设置文件的格式，并在其基础上进行更新和改进，以便小白能够设置自己的新版V2ray的代理规则。更多规则细节请访问原项目地址，在本项目中不多赘述。想要了解V2rayN的更多高级用法请访问v2rayN的项目[@2dust/v2rayN](https://github.com/2dust/v2rayN) ，在本项目中也不过多赘述。
 
 * 下载最新版v2rayN请访问https://github.com/2dust/v2rayN/releases
 * 了解原项目作者的规则请访问https://github.com/Loyalsoldier/v2ray-rules-dat/releases
