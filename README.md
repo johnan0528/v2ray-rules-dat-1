@@ -59,7 +59,7 @@
     "outboundTag": "direct",
     "ip": [
       "geoip:private",
-      "geoip:cn",
+      "geoip:cn"
     ],
     "domain": [
       "bitwarden.com",
@@ -99,7 +99,7 @@
     "outboundTag": "proxy",
     "domain": [
      "geosite:gfw",
-     "geosite:greatfire",
+     "geosite:greatfire"
     ]
   },
   {
